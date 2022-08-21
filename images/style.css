@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: yellow;
+}
+img {
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    object-fit: cover;
+}
+
+#container {
+    max-width: 300px;
+    margin: 0 auto;
+
+    margin-top: 20vh;
+}
+
+h1 {
+    color: yellow;
+}
