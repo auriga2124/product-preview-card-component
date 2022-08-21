@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-preview-card-component-Vm5zHqJyvA)
 - Live Site URL: [Live site at Netlify](https://auriga-product-preview-card.netlify.app)
 
 ## My process
